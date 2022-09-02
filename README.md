@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iliescualexia
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C/C++
-- 📫 How to reach me: iliescualexia@yahoo.com
+- 📫 How to reach me: alexiailiescu@gmail.com
 
 <!---
 iliescualexia/iliescualexia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
