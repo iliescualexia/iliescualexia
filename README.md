@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @iliescualexia
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++
 - 📫 How to reach me: alexiailiescu@gmail.com
 
 <!---
